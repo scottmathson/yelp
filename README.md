@@ -8,15 +8,15 @@ Actions of both buttons essentially lead toward same goal - user submissions, re
 
 View the live prototype: https://yelp.scottmathson.com/
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/scottmathson/yelp/master/img/website-prototype-screenshot.jpg)
 
 Based off of this wireframe:
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/scottmathson/yelp/master/img/yelp-wireframe-version-1.jpg)
 
 Yelp's original landing page:
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/scottmathson/yelp/master/img/original-yelp-landing-page.jpg)
 
 ---
 
